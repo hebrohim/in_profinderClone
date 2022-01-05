@@ -1,0 +1,172 @@
+
+	body{
+		margin:0;
+		padding: 0;
+		margin-top:0;
+		font-family: sans-serif;
+		}
+
+		.header{
+			background: url(banner.jpg) no-repeat;
+			background-size: cover;
+			height:50vh;
+			
+				}
+
+				.navbar{
+					width: 100%;
+					height:50px;
+					background-color: #263337;
+					
+				}
+
+				.headwords{
+				text-align: center;
+				font-family: sans-serif;
+				color:white;
+				padding-top: 100px;
+				margin: 0;
+				padding-top:100px;
+				}
+
+			.subhead{
+				text-align: center;
+				font-family: sans-serif;
+				color:white;
+				font-weight: normal;
+				margin: 0;
+				padding-top: 10px;
+				
+			}
+
+
+			.join{
+				margin-top:-60px;
+				margin-left:80%;
+				color:white;
+			
+				
+
+
+			}
+
+			.in{
+				background-color: white;
+				width: 35px;
+				height:35px;
+				text-align: center;
+				font-family:calibri;
+				border-radius:04px;
+				margin-top:-150px;
+				margin-left: 120px;
+
+			}
+			.profinder{
+				margin-top:-50px;
+				margin-left:165px;
+				color:white;
+				font-weight: normal;
+				letter-spacing: 4px;
+			}
+
+			ul{
+				float: left;
+				display: block;
+
+			}
+			li{
+				list-style: none;
+			}
+
+			a{
+				text-decoration:none;
+				color:white;
+
+			}
+
+			.signin{
+				border: solid 1px white;
+				font-size:17px;
+				padding:9px;
+
+
+			}
+			a.signin:hover{
+				border:solid 2px white;
+				background-color: grey;
+			}
+
+			.acheive{
+				padding-left: 80px;
+				color:grey;
+				
+			}
+
+	
+		.item{
+			margin: auto;
+			margin-left: 40px;
+			float: left;
+			box-shadow: 0 0 9px #777;
+			height:40vh;
+
+		}
+		
+		.clearfix{
+			clear:both;
+			margin-top: 350px;
+
+		}
+
+		.sec{
+			margin-left:40px;
+		}
+		
+		.item2{
+			margin-left: 80px;
+			float: left;
+			width:25%;
+			box-shadow: 0 0 9px #777;
+
+		}
+		.round_images{
+			border-radius: 90px;
+		}
+		p{
+			text-align: justify;
+		}
+
+		.table{
+			margin: auto;
+			margin-top:200px;
+			background-color:white;
+			width:42%;
+			height: 08vh;
+		}
+
+		.left{
+			width: 70%;
+
+		}
+
+			.getstarted{
+				width:140px;
+				height:07vh;
+				background-color: #006097;
+				border-radius:4px;
+				padding-left: 20px;
+			}
+
+				.input{
+					border:1px solid grey;
+					margin-left: 05px;
+					width: 350px;
+					height:40px;
+					font-size:18px;
+				}
+
+			.footer1{
+				border:solid 3px grey;
+
+
+			}
